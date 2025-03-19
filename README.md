@@ -1,7 +1,10 @@
 Created a predictive model in such a way that the objective is to predict the ordinal variable “damage_grade”. This column presents the level of damage grade affected by the earthquake.
+
 The data set link :- https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1015-EquakeDamagePred.zip
 
+
 Description of the Dataset :-
+
 ●	· 	geo_level_1_id, geo_level_2_id, geo_level_3_id (type: int): geographic region in which building exists, from largest (level 1) to most specific sub-region (level 3). Possible values: level 1: 0-30, level 2: 0-1427, level 3: 0-12567.
 ●	· 	count_floors_pre_eq (type: int): number of floors in the building before the earthquake.
 ●	· 	age (type: int): age of the building in years.
