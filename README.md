@@ -1,6 +1,12 @@
 Created a predictive model in such a way that the objective is to predict the ordinal variable “damage_grade”. This column presents the level of damage grade affected by the earthquake.
 
-The data set link :- https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1015-EquakeDamagePred.zip
+We're trying to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. There are 3 grades of the damage:
+
+1 represents low damage
+
+2 represents a medium amount of damage
+
+3 represents almost complete destruction
 
 
 Description of the Dataset :-
